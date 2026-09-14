@@ -1,5 +1,5 @@
 #modificando para hacer git push
-nombre = "Pepe"
+nombre = "Cualquier cosa"
 apellido = "del Campo"
 
 saludo = f"Hola, mi nombre es {nombre} {apellido}, Como estas"
